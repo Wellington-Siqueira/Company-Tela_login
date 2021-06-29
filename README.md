@@ -1,16 +1,5 @@
 # login_simples
 
-A new Flutter project.
+![tela_login](https://user-images.githubusercontent.com/84872113/123871671-57bf7e80-d90a-11eb-9c0f-bab780259763.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Layout simples de uma tela de Login utilizando flutter
